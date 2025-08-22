@@ -1,4 +1,5 @@
 streamlit
-pytesseract
-Pillow
 groq
+pillow
+easyocr  # (si decides cambiar)
+torch    # requerido por easyocr
